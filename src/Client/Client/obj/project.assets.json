@@ -9550,11 +9550,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "D:\\Project_SemIII\\Project_SemIII\\src\\Client\\Client\\Client.csproj",
       "projectName": "Client",
       "projectPath": "D:\\Project_SemIII\\Project_SemIII\\src\\Client\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\Project_SemIII\\Project_SemIII\\src\\Client\\Client\\obj\\",
+=======
+      "projectUniqueName": "D:\\Back up\\Downloads\\Client\\Client\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "D:\\Back up\\Downloads\\Client\\Client\\Client.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Back up\\Downloads\\Client\\Client\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Shared\\NuGetPackages"

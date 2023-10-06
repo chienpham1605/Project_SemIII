@@ -224,3 +224,7 @@ D:\Back up\Downloads\Client\Client\obj\Debug\net6.0\Client.pdb
 D:\Back up\Downloads\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
 D:\Back up\Downloads\Client\Client\obj\Debug\net6.0\ref\Client.dll
 D:\Back up\Downloads\Client\Client\obj\Debug\net6.0\scopedcss\Views\Shared\_ClientLayout.cshtml.rz.scp.css
+<<<<<<< Updated upstream
+=======
+D:\Back up\Downloads\Client\Client\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+>>>>>>> Stashed changes

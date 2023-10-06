@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:src/Client/Client/obj/Client.csproj.nuget.dgspec.json
     "D:\\Project_SemIII\\Project_SemIII\\src\\Client\\Client\\Client.csproj": {}
   },
@@ -29,6 +30,26 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "D:\\Back up\\Downloads\\Client\\Client\\Client.csproj": {}
+  },
+  "projects": {
+    "D:\\Back up\\Downloads\\Client\\Client\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Back up\\Downloads\\Client\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "D:\\Back up\\Downloads\\Client\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Back up\\Downloads\\Client\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> Stashed changes
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -36,6 +57,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< Updated upstream
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+>>>>>>> Stashed changes
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,6 +82,7 @@
           "dependencies": {
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:src/Client/Client/obj/Client.csproj.nuget.dgspec.json
               "version": "[6.0.16, )"
 =======
@@ -89,6 +116,9 @@
               "target": "Package",
               "version": "[6.5.0, )"
 >>>>>>> Stashed changes:src/Server/Server/obj/Server.csproj.nuget.dgspec.json
+=======
+              "version": "[6.0.16, )"
+>>>>>>> Stashed changes
             }
           },
           "imports": [
@@ -110,7 +140,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< Updated upstream
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+>>>>>>> Stashed changes
         }
       }
     }
