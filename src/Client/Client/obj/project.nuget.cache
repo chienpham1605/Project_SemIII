@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
   "dgSpecHash": "3WNFR69nEt5FJyOe7yezulhY3v+OtoOluhcXX/ep+abxWsZJ/KhrKs6W3znT9gfyYq6ap5ZVZirdMEx+GM+FWQ==",
   "success": true,
   "projectFilePath": "D:\\Project_SemIII\\Project_SemIII\\src\\Client\\Client\\Client.csproj",
-=======
-  "dgSpecHash": "innNAg0RzHAyk6/kVNX9lOKTGSmipDCXnve6vjmzgXZy5eJs+LhhYjD/Lhb2owFgBFh9+jDJydmQI4pMe3N6fA==",
-  "success": true,
-  "projectFilePath": "D:\\Back up\\Downloads\\Client\\Client\\Client.csproj",
->>>>>>> Stashed changes
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -200,5 +194,12 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Project_SemIII\\Project_SemIII\\src\\Client\\Client\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
